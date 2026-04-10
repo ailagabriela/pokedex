@@ -15,11 +15,27 @@ export function Welcome() {
 
       </nav>
       
+      <div className="text-white bg-yellow-300">
+        Pikachu
+      </div>
+
+      <div className="text-white bg-green-500">
+          Bulbasaur
+      </div>
+
+      <div className="text-white bg-red-400">
+        Charmander
+      </div>
+
+      <div className="text-white bg-blue-300">
+        Squirtle
+      </div>
+
       <div className="flex-grow">
 
       </div>
 
-      <footer className="bg-red-300 p-4">
+      <footer className="bg-blue-950 p-4">
         <p className="text-white text-center font-bold">Pokédex, React + Tailwind</p>
       </footer>
     </main>
